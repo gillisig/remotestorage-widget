@@ -43,7 +43,7 @@
   width: 100%;
   text-align: left;
   transition: box-shadow 200ms;
-  -webkit-trasition: box-shadow 200ms;
+  -webkit-transition: box-shadow 200ms;
   -moz-transition: box-shadow 200ms;
   -o-transition: box-shadow 200ms;
 }
@@ -224,7 +224,7 @@
   font: inherit;
   color: #fff;
   transition: box-shadow 200ms, background-color 200ms;
-  -webkit-trasition: box-shadow 200ms, background-color 200ms;
+  -webkit-transition: box-shadow 200ms, background-color 200ms;
   -moz-transition: box-shadow 200ms, background-color 200ms;
   -o-transition: box-shadow 200ms, background-color 200ms;
 }
